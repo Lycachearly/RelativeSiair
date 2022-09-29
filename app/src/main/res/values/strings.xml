@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Relative Siair</string>
+    <string-array name="arr_nama">
+        <item>chearly cantika putri</item>
+        <item>muhammad djibril katamri</item>
+        <item>muhammad falihudin atha</item>
+        <item>nardi</item>
+        <item>neni sudarwati</item>
+    </string-array>
+
 </resources>
