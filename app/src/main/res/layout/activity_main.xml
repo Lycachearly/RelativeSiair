@@ -36,11 +36,11 @@
         android:layout_above="@id/iv_logo"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="6dp"/>
+
     <TextView
         android:id="@+id/rv_rute"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="PLM-CGK"
-        />
+        android:text="PLM-CGK" />
 
 </RelativeLayout>
